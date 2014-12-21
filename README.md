@@ -1,8 +1,5 @@
 ## Video Streaming with Flask Example
 
-### Contact
-Email: Log0 <im [dot] ckieric [at] gmail [dot] com>
-
 ### Website
 Website: http://www.chioka.in
 
