@@ -1,7 +1,7 @@
 ## Video Streaming with Flask Example
 
 ### Website
-Website: http://www.chioka.in
+http://www.chioka.in
 
 ### Description
 Modified to support streaming out with webcams, and not just raw JPEGs.
