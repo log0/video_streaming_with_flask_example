@@ -8,5 +8,6 @@ Most of the code credits to Miguel Grinberg:
 http://blog.miguelgrinberg.com/post/video-streaming-with-flask
 
 ### Usage
-1. Run "python main.py".
-2. navigate the browser to the local webpage.
+1. Install Python dependencies: cv2, flask. (wish that pip install works like a charm)
+2. Run "python main.py".
+3. Navigate the browser to the local webpage.
