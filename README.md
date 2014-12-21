@@ -1,10 +1,14 @@
 ## Video Streaming with Flask Example
 
+### Contact
+Email: Log0 <im [dot] ckieric [at] gmail [dot] com>
+Website: http://www.chioka.in
+
 ### Description
 Modified to support streaming out with webcams, and not just raw JPEGs.
 
-### Original
-Most of the code credits to Miguel Grinberg:
+### Credits
+Most of the code credits to Miguel Grinberg, except that I made a small tweak. Thanks!
 http://blog.miguelgrinberg.com/post/video-streaming-with-flask
 
 ### Usage
